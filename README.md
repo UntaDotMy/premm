@@ -6,7 +6,7 @@ CARA INSTALL :
 
 DEB 9 / DEB 10
 
-**DEB10 ONLY 
+**COMMAND DEB10 ONLY 
 > apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr && wget https://raw.githubusercontent.com/UntaDotMy/premm/main/setup.sh && chmod +x setup.sh && ./setup.sh
@@ -46,6 +46,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 * VPS REKOMEN 2GB RAM KEATAS .
 
 TESTED MACHINE : OVH , DIGITAL OCEAN , GOOGLE CLOUD , LINODE 
+
+TRIAL : 3hari /ip
 
 SEWA BULANAN : RM 10 30 hari untuk satu IP
 
