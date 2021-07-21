@@ -43,7 +43,11 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 - Auto-Remove-Expired     : [ON]  
 - IPv6                    : [OFF]  
 
-SEWA BULANAN : RM 10 30hari untuk satu IP
+* VPS REKOMEN 2GB RAM KEATAS .
+
+TESTED MACHINE : OVH , DIGITAL OCEAN , GOOGLE CLOUD , LINODE 
+
+SEWA BULANAN : RM 10 30 hari untuk satu IP
 
 Boleh contact saya :
 
