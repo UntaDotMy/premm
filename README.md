@@ -1,5 +1,7 @@
 Autoscript installer VPS untuk jualan SSH / OVPN / v2RAY / Xray / SSR / SS
 
+FREE SUBDOMAIN + BUG WILDCARD + CLOUDFLARE
+
 CARA INSTALL :
 
 DEB 9 
