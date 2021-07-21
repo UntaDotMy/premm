@@ -4,9 +4,12 @@ FREE SUBDOMAIN + BUG WILDCARD + CLOUDFLARE
 
 CARA INSTALL :
 
-DEB 9 
+DEB 9 / DEB 10
 
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/UntaDotMy/premm/main/setup.sh && chmod +x setup.sh && ./setup.sh
+**DEB10 ONLY 
+> apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
+
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr && wget https://raw.githubusercontent.com/UntaDotMy/premm/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 >>> Service & Port  
 - OpenSSH                 : 22  
