@@ -17,6 +17,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 - Stunnel4                : 443, 777  
 - Dropbear                : 109, 143  
 - Squid Proxy             : 3128, 8080 (limit to IP Server)  
+- OHP OPENVPN             : 8087
 - Badvpn                  : 7300  
 - Nginx                   : 81  
 - Wireguard               : 7070  
