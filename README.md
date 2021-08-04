@@ -68,5 +68,5 @@ https://shopee.com.my/product/210606090/6595238797/
 
 
 Changelog :
-> Add OHP
-> Add Ubuntu support
+> 1.Add OHP
+2.Add Ubuntu support
