@@ -1,3 +1,5 @@
+Fresh VPS ONLY !
+
 Autoscript installer VPS untuk jualan SSH / OVPN / v2RAY / Xray / SSR / SS
 
 FREE SUBDOMAIN + BUG WILDCARD + CLOUDFLARE
@@ -18,7 +20,7 @@ lepas tu
 
 >>> Service & Port  
 - OpenSSH                 : 22  
-- OpenVPN                 : TCP 1194, UDP 2200, SSL 442  
+- OpenVPN                 : TCP 1194, TCP 1100 , UDP 2200 , UDP 2500 , SSL 442  
 - Stunnel4                : 443, 777  
 - Dropbear                : 109, 143  
 - Squid Proxy             : 3128, 8080 (limit to IP Server)  
@@ -51,7 +53,7 @@ lepas tu
 
 * VPS REKOMEN 2GB RAM KEATAS .
 
-TESTED MACHINE : OVH , DIGITAL OCEAN , GOOGLE CLOUD , LINODE , VULTR
+TESTED MACHINE : OVH , DIGITAL OCEAN , GOOGLE CLOUD , LINODE , VULTR , CONTABO
 
 TRIAL : 3hari /ip
 
