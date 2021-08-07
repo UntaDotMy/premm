@@ -20,7 +20,7 @@ lepas tu
 
 >>> Service & Port  
 - OpenSSH                 : 22  
-- OpenVPN                 : TCP 1194, TCP 1100 , UDP 2200 , UDP 2500 , SSL 442  
+- OpenVPN                 : TCP 1194, TCP 1100 , UDP 2200 , UDP 2500 
 - Stunnel4                : 443, 777  
 - Dropbear                : 109, 143  
 - Squid Proxy             : 3128, 8080 (limit to IP Server)  
