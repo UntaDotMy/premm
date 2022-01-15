@@ -6,9 +6,9 @@ FREE SUBDOMAIN + BUG WILDCARD + CLOUDFLARE
 
 CARA INSTALL :
 
-DEB 9 / DEB 10 / UBUNTU
+DEBIAN / UBUNTU
 
-**COMMAND DEB10 ONLY 
+**COMMAND DEB10 > + ONLY 
 > apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 
 **UBUNTU ONLY
