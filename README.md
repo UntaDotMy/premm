@@ -18,6 +18,9 @@ lepas tu
 
 > sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils && wget https://raw.githubusercontent.com/UntaDotMy/premm/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 
+FIX DEBIAN 11 + / UBUNTU 20+
+wget https://github.com/UntaDotMy/premm/raw/main/debuntufix.sh && chmod +x debuntufix.sh && ./debuntufix.sh
+
 >>> Service & Port  
 - OpenSSH                 : 22  
 - OpenVPN                 : TCP 1194, TCP 110 , UDP 2200 , UDP 2500 
